@@ -23,7 +23,7 @@ Visitor (int) - number of people in the country
 Rating (double) - the rating of the area ranging 1-4.5
 Accomodation (String) - if the area has accomodations or not
 UML Diagram
-UML Diagram for my project
+![UML Diagram for my project](UML.png)
 
 Description
 Our code gets the information about the tourist travel destinations and display the most and least visited locations. By using 1D arrays of 100 values and 4 different classes, the user receives an element of information from each data structure. The user story relates to the ideal location based on the user input of the rating and accommodation. The user can put in a number 0-4 and a “Yes” or “No” input in order to narrow down the possibilities for the locations that can applied to their needs. By using the increments and decrements of 0.5 the possibilities are narrowed down to meet the users needs.
